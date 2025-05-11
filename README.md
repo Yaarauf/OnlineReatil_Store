@@ -1,1 +1,2 @@
-# OnlineReatil_Store
+# OnlineReatil_Store 
+This project focuses on a retail store that operates entirely online, serving customers across multiple countries,the analysis explorations including sales trends, performance across countries, customer behavior. By examining transactional data from various countries to enhance seasonality and trends. This analysis driven aims supports informed decision making in a and diverse marketplace.
